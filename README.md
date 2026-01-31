@@ -21,7 +21,7 @@
 - **Student-Result-Analysis**  
   https://github.com/GayasuddinMohd/Student-Result-Analysis
 
-  - **Netflix-Content-Analysis-A-Comprehensive-Exploration**  
+- **Netflix-Content-Analysis-A-Comprehensive-Exploration**  
   https://github.com/GayasuddinMohd/Netflix-Content-Analysis-A-Comprehensive-Exploration
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
